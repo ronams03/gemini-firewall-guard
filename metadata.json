@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Firewall Guard",
+  "description": "A simulated antivirus and firewall application that uses AI to detect potential threats in a mock file system. It visualizes file scanning and network monitoring for a comprehensive security dashboard experience.",
+  "requestFramePermissions": []
+}
