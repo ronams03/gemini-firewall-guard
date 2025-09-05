@@ -1,20 +1,9 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Gemini Firewall Guard
 
-# Run and deploy your AI Studio app
+An AI-powered antivirus and firewall application that uses the Gemini API to analyze user-uploaded files for threats and simulate real-time network security monitoring.
 
-This contains everything you need to run your app locally.
+## Core Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/10mQJJ3ENLlTLKw5woJ4mj3DYv04xfnff
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+*   **Security Dashboard:** Get a quick, dynamic overview of your system's security status based on the latest scan results.
+*   **AI-Powered Threat Scan:** Upload your files to be analyzed by a powerful AI model that detects malware, spyware, and other potential threats based on file content and metadata.
+*   **Live Firewall Simulation:** Monitor a real-time feed of simulated network traffic and manage firewall rules to instantly allow or block connections.
